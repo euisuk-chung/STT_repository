@@ -1,3 +1,6 @@
+# ignore contents, only upload samples
+contents/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
